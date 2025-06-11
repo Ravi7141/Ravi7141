@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Spring Boot, Spring AI ,REST APIs, and system design<br>🎯 Goals: To become a full-stack developer and contribute to open-source projects<br>🎲 Fun fact: I fix one bug and create two more — it’s a feature, not a bug 😄</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Spring Boot, Spring AI ,REST APIs, and system design<br>🎯 Goals: To become a full-stack developer and contribute to open-source projects<br>🎲 Fun fact: I fix one bug and create two more — it’s a feature, not a bug 😄</p>
 
 ###
 
